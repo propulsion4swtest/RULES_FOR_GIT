@@ -23,3 +23,6 @@
 └── .gitignore
 
 ```
+
+
+* C++ 사용자는 [이 .gitignore](https://github.com/propulsion4swtest/RULES_FOR_GIT/blob/master/.gitignore)의 내용을 사용하시면 됩니다.
